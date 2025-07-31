@@ -1,0 +1,1 @@
+{"status":true,"message":"Login successful","data":{"token":"e0d53be2fe7bacd7cd71741be2c7f79e","rng":19753525165,"game_type":"PUBG","user_key":"1111","expired_date":"2029-07-26T17:25:34.000000Z","duration":"1 days","remaining_time":25569,"login_data":{"APK":"1.1","GAME":"3.9.0","NAME":"Two95Cheat","URL":"https:\/\/vip-panel.top\/bypass\/test\/two95.zip","VERSION":"2.9"}}}
